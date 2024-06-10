@@ -13,3 +13,6 @@ I made changest ot the title
 ``` python
 import os
 ```
+- [ ] Turn on Github Pages
+- [ ] Outline my portfolio
+- [ ] introduce myself to the world
